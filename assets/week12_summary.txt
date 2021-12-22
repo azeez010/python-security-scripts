@@ -1,0 +1,26 @@
+Top 5 Tags
+Tag                 Count
+----------------  -------
+robin-weigert          11
+william-fichtner       11
+pat-asanti             10
+andrew-dismukes         7
+jordi-webber            6
+
+Top 5 Images
+Image                                                                                           Count
+--------------------------------------------------------------------------------------------  -------
+/wp-content/uploads/2021/08/Fireboys_FilmStill_13.png                                               9
+/wp-content/uploads/2018/10/42863945_241300576535983_4831307105229078528_n.jpg                      7
+/wp-content/uploads/2018/10/cropped-43629453_263925247597305_6262018650635501568_n-32x32.png        7
+/wp-content/uploads/2021/07/3.png                                                                   5
+/wp-content/uploads/2021/08/val-VKIL_2021_FrameGrab_3840x2160_00016_rgb-65x65.jpg                   4
+
+Top 5 Paths
+Path                        Count
+------------------------  -------
+/wp-cron.php                  144
+/                              85
+/robots.txt                    51
+/wp-admin/admin-ajax.php       47
+/feed                          45
